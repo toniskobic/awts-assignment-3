@@ -8,8 +8,11 @@ import java.lang.annotation.Target;
 
 import jakarta.inject.Qualifier;
 
+/**
+ * Sučlje Pokretanje
+ */
 @Qualifier
 @Retention(RUNTIME)
 @Target(TYPE)
-public @interface Eager {
+public @interface Pokretanje {
 }

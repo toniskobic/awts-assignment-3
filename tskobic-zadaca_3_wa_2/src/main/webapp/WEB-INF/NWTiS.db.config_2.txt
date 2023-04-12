@@ -1,6 +1,6 @@
 #NWTiS 2022.
 #Thu May 26 16:56:17 CEST 2022
-LocationIQ.token=***REMOVED***
+LocationIQ.token=
 stranica.brojRedova=15
 jdbc.derby=org.apache.derby.jdbc.ClientDriver
 user.username=nwtis_g1
